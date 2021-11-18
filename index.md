@@ -13,10 +13,10 @@
 </tr>
 </table>
                            
-### Personal introduction
+### Personal introduction \n
 Dr Guobin Chen received his PhD from Chongqing University of Posts and Telecommunications, China in 2021. He is currently an associate professor in Chongqing Technology and Business University. He has published several works in journals IEEE TITS, Elsevier Ultrasonics Sonochemistry, Neural Computing & Applications, etc. His research interests include machine learning, deep learning, and big data analysis.
 ### Academic introduction 
-Papers published in recent years are as follows:
+Papers published in recent years are as follows:\n
 [1]Guobin Chen，Xinmin Ding and Wen Zhouc. Study on ultrasonic treatment for degradation of Microcystins (MCs)[J], Ultrasonics Sonochemistry, Vol.63, PP:1-10,2020.
 [2]Chen GuoBin,Wang L,Alam M, et al. Intelligent Group Prediction Algorithm of GPS Trajectory Based on Vehicle Communication[J]. IEEE Transactions on Intelligent Transportation Systems,Vol.22,no.7,pp.3987-3996,2021.
 [3]Chen GuoBin, Sun Z, Zhang L.Road Identification Algorithm for Remote Sensing Images Based on Wavelet Transform and Recursive Operator[J]. IEEE Access,Vol.8, pp.141824-141837,2020.
