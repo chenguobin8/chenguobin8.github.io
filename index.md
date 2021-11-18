@@ -8,7 +8,7 @@
 <p><b>地址: xx市xx区 xx路xx号xx大学，xx楼，邮编xxx</b></p>
 </td>
 <td width=" 25%">
-<img src=" /zhengjianzhao.jpg" width=" 100%”>
+<img src=" /陈国彬.jpg" width=" 100%”>
 %插入证件照代码
 </td>
 </tr>
