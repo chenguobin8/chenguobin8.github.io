@@ -1,14 +1,14 @@
 <table border="0">
 <tr>
 <td width= "75%">
-<h1>张三</h1>
-<p><b>硕士研究生</b></p>
-<p><b>xx大学x学院</b></p>
-<p><b>邮箱: 1234567789@qq. com</b></p>
-<p><b>地址: xx市xx区 xx路xx号xx大学,xx楼,邮编xxx</b></p>
+<h1>Guobin Chen</h1>
+<p><b>Doctor</b></p>
+<p><b>Chongqing Technology and Business University</b></p>
+<p><b>Email: chen_gb1982@163.com; d150201001@stu.cqupt.edu.cn</b></p>
+<p><b>Address:No.228, Tianli Road, Lishuwan, Shapingba District, Chongqing</b></p>
 </td>
 <td width=" 25%">
-<img src="/陈国彬.jpg" width="100%"> %插入证件照代码
+<img src="/陈国彬.jpg" width="100%">
 </td>
 </tr>
 </table>
